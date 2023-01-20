@@ -1,0 +1,23 @@
+:root {
+    --color1: #0f3a31;
+    --color2: #aab7b7;
+    --color3: #557070;
+    --color4: #f5f5f5;
+    --color5: #DDE2E2;
+}
+.puppies1 {
+    padding: 20px 20px;
+    background-color: var(--color4);
+}
+.puppies2 {
+    padding: 20px 20px;
+    background-color: var(--color4);
+}
+.puppies3 {
+    padding: 20px 20px;
+    background-color: var(--color4);
+}
+.btn-pup {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}

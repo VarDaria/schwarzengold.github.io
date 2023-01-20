@@ -1,0 +1,31 @@
+:root {
+    --color1: #0f3a31;
+    --color2: #aab7b7;
+    --color3: #557070;
+    --color4: #f5f5f5;
+    --color5: #DDE2E2;
+}
+.cards {
+    padding-top: 50px;
+}
+.male {
+    background-color: cornflowerblue;
+}
+.female {
+    background-color: palevioletred;
+}
+table {
+    margin: 5px auto; padding: 0;
+    background-color: #f5f5f5;
+    border: none;
+    border-radius: 5px;
+  }
+  
+  tr {
+    background-color: #DDE2E2;
+  }
+  
+  td {
+    padding: 5px;
+    text-align: center;
+  }

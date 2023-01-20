@@ -1,0 +1,37 @@
+:root {
+    --color1: #0f3a31;
+    --color2: #aab7b7;
+    --color3: #557070;
+    --color4: #f5f5f5;
+    --color5: #DDE2E2;
+}
+header, footer, section {
+    padding: 50px 0;
+}
+header {
+    background-color: var(--color1);
+}
+nav {
+    background-color: var(--color1);
+}
+.dropdown-menu {
+background-color: var(--color3);
+}
+main {
+    background-color: var(--color5);
+}
+h1 {
+    padding-bottom: 50px;
+}
+h2 {
+    padding-bottom: 25px;
+}
+
+.history {
+    padding: 20px 20px;
+    background-color: var(--color4);
+}
+.achivments {
+    padding: 20px 20px;
+    background-color: var(--color4);
+}
